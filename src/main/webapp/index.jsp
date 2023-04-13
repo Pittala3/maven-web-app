@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1><font color='purple'>Welcome to Ashok IT <font></h1>
-<h2>Learn  Anywhere..!! </h2>
+<h2>Learn  Anywhere..GET SUCCESS HERE!! </h2>
 
 <a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
   
